@@ -13,7 +13,7 @@ body {
 #page-wrapper {
   position: relative;
   background-color: #AF8808;
-  font-family : 'IM Fell Double Pica', serif;
+  font-family: 'Montserrat', sans-serif;
   color: black;
 }
 
@@ -32,7 +32,7 @@ p {
 }
 
 .header a {
-  font-family: 'IM Fell Double Pica', serif;
+  font-family: 'Montserrat', sans-serif;
   float: left;
   color: #AF8808;
   text-align: center;
